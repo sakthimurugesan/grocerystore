@@ -1,0 +1,240 @@
+[
+  {
+    "id": 15,
+    "category": "Women,Watch",
+    "name": "moonlight_pearl",
+    "price": "",
+    "image": "img/moonlight_pearl.webp"
+  },
+  {
+    "id": 12,
+    "category": "Women",
+    "name": "knit-short-sleeve",
+    "price": "",
+    "image": "img/knit-short-sleeve.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Shoe,Unisex,Men,Women",
+    "name": "air-max-97",
+    "price": "",
+    "image": "img/air-max-97.jpg"
+  },
+  {
+    "id": 31,
+    "category": "Watch,Men",
+    "name": "titan_neo_splash",
+    "price": "",
+    "image": "img/titan_neo_splash.webp"
+  },
+  {
+    "id": 6,
+    "category": "Men",
+    "name": "dri-fit-fleece",
+    "price": "",
+    "image": "img/dri-fit-fleece.jpg"
+  },
+  {
+    "id": 20,
+    "category": "Men,Women,Unisex,Bag",
+    "name": "nike_bag_5",
+    "price": "",
+    "image": "img/nike_bag_5.jpg"
+  },
+  {
+    "id": 24,
+    "category": "Women,Watch",
+    "name": "pink_dial_leather",
+    "price": "",
+    "image": "img/pink_dial_leather.webp"
+  },
+  {
+    "id": 19,
+    "category": "Men,Women,Unisex,Bag",
+    "name": "nike_bag_4",
+    "price": "",
+    "image": "img/nike_bag_4.jpg"
+  },
+  {
+    "id": 29,
+    "category": "Watch,Men",
+    "name": "titan_black_gold",
+    "price": "",
+    "image": "img/titan_black_gold.webp"
+  },
+  {
+    "id": 26,
+    "category": "Women",
+    "name": "sportswear-cropped",
+    "price": "",
+    "image": "img/sportswear-cropped.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Men,Women,Unisex",
+    "name": "martine-rose-jacket",
+    "price": "",
+    "image": "img/martine-rose-jacket.jpg"
+  },
+  {
+    "id": 32,
+    "category": "Men",
+    "name": "tottenham-hotspur",
+    "price": "",
+    "image": "img/tottenham-hotspur.jpg"
+  },
+  {
+    "id": 33,
+    "category": "Watch,Men",
+    "name": "workwear_green",
+    "price": "",
+    "image": "img/workwear_green.webp"
+  },
+  {
+    "id": 18,
+    "category": "Men,Women,Unisex,Bag",
+    "name": "nike_bag_3",
+    "price": "",
+    "image": "img/nike_bag_3.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Men,Women,Unisex",
+    "name": "ispa-long-sleeve",
+    "price": "",
+    "image": "img/ispa-long-sleeve.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Shoe,Unisex,Men,Women",
+    "name": "air-jordan",
+    "price": "",
+    "image": "img/air-jordan.jpg"
+  },
+  {
+    "id": 27,
+    "category": "Women",
+    "name": "phoenix-fleece-over",
+    "price": "",
+    "image": "img/phoenix-fleece-over.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Men,Women,Unisex",
+    "name": "ispa-short-sleeve",
+    "price": "",
+    "image": "img/ispa-short-sleeve.jpg"
+  },
+  {
+    "id": 34,
+    "category": "Watch,Women",
+    "name": "workwear_silver",
+    "price": "",
+    "image": "img/workwear_silver.webp"
+  },
+  {
+    "id": 25,
+    "category": "Women,Watch",
+    "name": "rose_gold",
+    "price": "",
+    "image": "img/rose_gold.webp"
+  },
+  {
+    "id": 23,
+    "category": "Women,Watch",
+    "name": "pearldial",
+    "price": "",
+    "image": "img/pearldial.webp"
+  },
+  {
+    "id": 17,
+    "category": "Men,Women,Unisex,Bag",
+    "name": "nike_bag_2",
+    "price": "",
+    "image": "img/nike_bag_2.jpg"
+  },
+  {
+    "id": 21,
+    "category": "Shoe,Unisex,Men,Women",
+    "name": "Full_Force_Low",
+    "price": "",
+    "image": "img/Full_Force_Low.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Shoe,Unisex,Men,Women",
+    "name": "air-force-1",
+    "price": 170,
+    "image": "img/air-force-1.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Men,Women,Unisex",
+    "name": "martine-rose-dress",
+    "price": "",
+    "image": "img/martine-rose-dress.jpg"
+  },
+  {
+    "id": 16,
+    "category": "Men,Women,Unisex,Bag",
+    "name": "nike_bag_1",
+    "price": "",
+    "image": "img/nike_bag_1.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Shoe,Unisex,Men,Women",
+    "name": "air-max-1",
+    "price": "",
+    "image": "img/air-max-1.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Women",
+    "name": "forward-hoodie",
+    "price": "",
+    "image": "img/forward-hoodie.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Men",
+    "name": "fc-barcelona",
+    "price": "",
+    "image": "img/fc-barcelona.jpg"
+  },
+  {
+    "id": 30,
+    "category": "Watch,Men",
+    "name": "titan_leather_strap",
+    "price": "",
+    "image": "img/titan_leather_strap.webp"
+  },
+  {
+    "id": 22,
+    "category": "Women",
+    "name": "PSG_T-Shirt",
+    "price": "",
+    "image": "img/PSG_T-Shirt.jpg"
+  },
+  {
+    "id": 11,
+    "category": "Men",
+    "name": "dri-fit-pullover",
+    "price": "",
+    "image": "img/dri-fit-pullover.jpg"
+  },
+  {
+    "id": 1,
+    "category": "Men",
+    "name": "acg-t-shirt",
+    "price": 160,
+    "image": "img/acg-t-shirt.jpg"
+  },
+  {
+    "id": 28,
+    "category": "Watch,Men",
+    "name": "titan_black_dial",
+    "price": "",
+    "image": "img/titan_black_dial.webp"
+  }
+]

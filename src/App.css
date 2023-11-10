@@ -1,38 +1,133 @@
-.App {
-  text-align: center;
+
+.searchBar
+{
+  width: 95%;
+  height: 90px;
+  background-color: palevioletred;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 25px;
+  margin-left: 40px;
+
+
+
+}
+#searchBox
+{
+  height: 40px;
+  width: 180px;
+  font-size: 16px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.catList ul
+{
+  list-style-type: none;
+  display: flex;
+  width: 95%;
+  height: 60px;
+  background-color: palevioletred;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 25px;
+  margin-left: 40px;
+  
+}
+.catList ul li button
+{
+    height: 35px;
+    width: 75px;
+}
+.product-list
+{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 25px;
+  row-gap: 25px;
+  width: 95%;
+  margin-left: 40px;
+  justify-content: center;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cover img
+{
+  width: 85%;
+  height: 200px;
+  margin-top: 15px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.book {
+  position: relative;
+  border-radius: 10px;
+  width: 280px;
+  height: 350px;
+  background-color: whitesmoke;
+  -webkit-box-shadow: 1px 1px 12px #000;
+  box-shadow: 1px 1px 12px #000;
+  -webkit-transform: preserve-3d;
+  -ms-transform: preserve-3d;
+  transform: preserve-3d;
+  -webkit-perspective: 2000px;
+  perspective: 2000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
   align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  color: #000;
+  color: red;
+}
+
+.cover {
+  top: 0;
+  position: absolute;
+  background-color: rgb(165, 11, 203);
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  -webkit-transform-origin: 0;
+  -ms-transform-origin: 0;
+  transform-origin: 0;
+  -webkit-box-shadow: 1px 1px 12px #000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.book:hover .cover {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s linear;
+  -webkit-transform: rotatey(-135deg);
+  -ms-transform: rotatey(-135deg);
+  transform: rotatey(-135deg);
+
+}
+.book h3{
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.price {
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.book:hover .cover p,.book:hover .cover h3,.book:hover .cover img
+{
+  transform: scaleX(-1);
 }
